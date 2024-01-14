@@ -1,6 +1,6 @@
-const images = document.querySelectorAll(".slider .slider-line img");
 const slider = document.querySelector(".slider");
 const sliderLine = document.querySelector(".slider-line");
+const images = document.querySelectorAll(".slider .slider-line img");
 const btnPrevious = document.querySelector(".slider-previous");
 const btnNext = document.querySelector(".slider-next");
 let count = 0;

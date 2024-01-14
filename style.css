@@ -1,6 +1,7 @@
 .slider {
     border: 2px solid black;
-    max-width: 50%;
+    max-width: 500px;
+    width: 100%;
     margin: 0 auto;
     overflow: hidden;
 }
@@ -9,6 +10,5 @@
     /* transition: all ease 1s; */
 }
 .slider-line img{
-    width: 750px;
-    height: 80px;
+    width: 100%;
 }
